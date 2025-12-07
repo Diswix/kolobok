@@ -1,0 +1,29 @@
+* {
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmJ2yZObehIcJIBrXxlTE3Gs3pgUS2rYwOtw&s);
+}
+
+.welcome img {
+    width: 400px;
+    height: 400px;
+}
+
+.welcome {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.welcome img {
+    transition: width 1s;
+}
+
+div .welcome img:hover {
+    width: 500px;
+    height: 500px;
+}
+
+.about {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
