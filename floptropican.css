@@ -1,3 +1,4 @@
+
 * {
     margin: 0;
     padding: 0;
@@ -7,7 +8,7 @@
 
 body {
     min-height: 100vh;
-    background: linear-gradient(135deg, #46d7f7, #00bfff);
+    background: linear-gradient(135deg, #f7d046, #ff9f43);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -38,7 +39,7 @@ body {
     font-size: 48px;
     font-weight: 800;
     margin-top: 5px;
-    color: #ff00d9;
+    color: #ff7a00;
     text-shadow: 2px 2px 0 #00000010;
 }
 
